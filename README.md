@@ -1,3 +1,5 @@
+![Comprehensive Pandas Course](/thumbpandas.png)
+
 # Pandas Course in Italian
 
 This repository hosts a comprehensive course on data manipulation with Pandas, taught entirely in Italian. The course includes a series of Google Colab notebooks that step through various functionalities of the Pandas library, from basic operations to more advanced data processing techniques.
