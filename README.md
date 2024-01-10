@@ -25,5 +25,18 @@ Here's a breakdown of the course content:
 To get started with the course, clone this repository to your local machine and open the notebooks in Google Colab.
 
 ```bash
-git clone https://github.com/yourusername/pandas-course-italian.git
+git clone https://github.com/RaphaCarpio1532/Pandas
+
+Each notebook is pre-configured to run in Google Colab, which provides a free, cloud-based Jupyter notebook environment that requires no setup.
+
+Prerequisites
+Before starting this course, it is recommended to have a basic understanding of Python programming. Familiarity with data structures such as lists and dictionaries will also be beneficial.
+
+Contributing
+If you have any suggestions for improving the course or if you encounter any issues, please feel free to fork the repository, make your changes, and submit a pull request.
+
+License
+This course is provided under the terms of a specific license. Please refer to the LICENSE file in the repository for more information.
+
+README crafted by Rapha Carpio
 
